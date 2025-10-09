@@ -36,7 +36,7 @@
 
 ---
 
-## 2. 모델 아키텍처 (Model Architecture)
+## 2. 모델 아키텍처 (Model Architecture
 
 저희가 제안하는 모델은 3개의 입력 스트림을 가진 CNN 구조입니다. 각 데이터(얼굴, 자세, 소리)는 별도의 컨볼루션 레이어를 통과한 후, 특징(feature)이 하나로 합쳐져(Concatenate) 최종 상태를 분류합니다.
 

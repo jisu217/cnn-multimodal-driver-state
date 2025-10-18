@@ -84,13 +84,13 @@
 
 | 이름 (Name) | 역할 (Role) |
 | :---------- | :--------------------------------------------------------- |
-| **강지수**  | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
-| **김수아**  | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
-| **신수아**  | Resnet50 코드 연구 및 실행                                 |
-| **여환서**  | Xception 코드 연구 및 실행                                 |
-| **이동연**  | 데이터 생성 및 데이터 테이블 제작                          |
-| **이정현**  | 데이터 생성 및 데이터 테이블 제작                          |
-| **한기준**  | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
+| 강지수 | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
+| 김수아 | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
+| 신수아 | Resnet50 코드 연구 및 실행                                 |
+| 여환서 | Xception 코드 연구 및 실행                                 |
+| 이동연 | 데이터 생성 및 데이터 테이블 제작                          |
+| 이정현 | 데이터 생성 및 데이터 테이블 제작                          |
+| 한기준 | 레퍼런스 조사 및 논문 레퍼런스 리스트 작성                 |
 
 ---
 
@@ -102,9 +102,9 @@
 
 | 항목 | 내용 |
 | :--- | :--- |
-| **게재 학회지** | KJAI (Korean Journal of Artificial Intelligence) |
-| **논문 제목** | A study on driver state recognition using CNN-based multimodal multi-input learning |
-| **상태** | **게재 승인 (Accepted)** |
-| **승인일** | 2025년 3월 5일 |
+| 게재 학회지 | KJAI (Korean Journal of Artificial Intelligence) |
+| 논문 제목 | A study on driver state recognition using CNN-based multimodal multi-input learning |
+| 상태 | **게재 승인 (Accepted)** |
+| 승인일 | 2025년 3월 5일 |
 
 ---

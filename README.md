@@ -1,6 +1,4 @@
-# A study on driver state recognition using CNN-based multimodal multi-input learning
-
-> Using the driver's face, driving posture, and surrounding sound data together, we propose a multimodal CNN-based system that recognizes six driver states — normal, drowsy, fainting, surprise, anger, and anxiety — with a high accuracy of 99.9%.
+> A study on driver state recognition using CNN-based multimodal multi-input learning
 
 --- 
 
@@ -27,7 +25,7 @@ Sooah Shin, Jisu Kang, Sooah Kim, Hwanseo Yeo, Dongyeon Lee, Jeongjyun Lee, Giju
 
 ## 2. Overview
 
-Accurately detecting a driver's state is critical for road safety. This project proposes a **multimodal CNN** that takes **three simultaneous inputs** — driver face image, driver posture image, and sound spectrogram — to classify six driver states with **99.9% accuracy**.
+Accurately detecting a driver's state is critical for road safety. This project proposes a **multimodal CNN** that takes **three simultaneous inputs** — driver face image, driver posture image, and sound spectrogram — to classify six driver states(normal, drowsy, fainting, surprise, anger, and anxiety) with **99.9% accuracy**.
 
 ---
 

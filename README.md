@@ -7,9 +7,9 @@
 ## 목차 (Table of Contents)
 1. [Paper](#1.Paper)
 2. [Overview](#2.Overview)
-3. [Classification-Labels](#3.Classification Labels)
-4. [Model-Architecture](#4.Model Architecture)
-5. [Experimental-Results](#5.Experimental Results)
+3. [Classification-Labels](#3. Classification Labels)
+4. [Model-Architecture](#4. Model Architecture)
+5. [Experimental-Results](#5. Experimental Results)
 6. [Dataset](#6.Dataset)
 
 --- 

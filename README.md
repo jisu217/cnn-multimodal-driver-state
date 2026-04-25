@@ -6,11 +6,11 @@
 
 ## 목차 (Table of Contents)
 1. [Paper](#1.Paper)
-2. [모델 아키텍처 (Model Architecture)](#2-모델-아키텍처)
-3. [데이터셋 (Dataset)](#3-데이터셋)
-4. [주요 결과 (Results)](#4-주요-결과)
-5. [팀원 및 역할 (Team & Roles)](#5-팀원-및-역할)
-6. [학술 발표 (Publication)](#6-학술-발표)
+2. [Overview](#2.Overview)
+3. [Classification Labels](#3.Classification Labels)
+4. [Model Architecture](#4.Model Architecture)
+5. [Experimental Results](#5.Experimental Results)
+6. [Dataset](#6.Dataset)
 
 --- 
 
@@ -111,7 +111,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 10. Citation
+## 8. Citation
 
 ```bibtex
 @article{shin2025driver,

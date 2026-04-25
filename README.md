@@ -2,9 +2,19 @@
 
 > A lightweight, on-device-ready driver state recognition system using facial images, body posture images, and sound spectrograms as triple-input multimodal data.
 
----
+--- 
 
-## 📄 Paper
+## 목차 (Table of Contents)
+1. [Paper](#1.Paper)
+2. [모델 아키텍처 (Model Architecture)](#2-모델-아키텍처)
+3. [데이터셋 (Dataset)](#3-데이터셋)
+4. [주요 결과 (Results)](#4-주요-결과)
+5. [팀원 및 역할 (Team & Roles)](#5-팀원-및-역할)
+6. [학술 발표 (Publication)](#6-학술-발표)
+
+--- 
+
+## 1. Paper
 
 **"A study on driver state recognition using CNN-based multimodal multi-input learning"**  
 Sooah Shin, Jisu Kang, Sooah Kim, Hwanseo Yeo, Dongyeon Lee, Jeongjyun Lee, Gijun Han, **Jinho Han***  
@@ -13,7 +23,7 @@ Sooah Shin, Jisu Kang, Sooah Kim, Hwanseo Yeo, Dongyeon Lee, Jeongjyun Lee, Giju
 
 ---
 
-## 🎯 Overview
+## 2. Overview
 
 Accurately detecting a driver's state is critical for road safety. This project proposes a **multimodal CNN** that takes **three simultaneous inputs** — driver face image, driver posture image, and sound spectrogram — to classify six driver states with **99.9% accuracy**.
 
@@ -24,7 +34,7 @@ Key design goals:
 
 ---
 
-## 🏷️ Classification Labels
+## 3. Classification Labels
 
 | Label | State | Visual Cue | Audio Cue |
 |-------|-------|-----------|-----------|
@@ -37,7 +47,7 @@ Key design goals:
 
 ---
 
-## 🧠 Model Architecture
+## 4. Model Architecture
 
 The proposed **Multi-Input CNN** is based on a modified AlexNet structure:
 
@@ -61,7 +71,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 📊 Experimental Results
+## 5. Experimental Results
 
 ### Single Input vs. Dual Input vs. Triple Input
 
@@ -80,7 +90,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 📁 Dataset
+## 6. Dataset
 
 | Split | Samples | Details |
 |-------|---------|---------|
@@ -94,7 +104,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## ⚙️ Training Configuration
+## 7. Training Configuration
 
 | Parameter | Value |
 |-----------|-------|
@@ -105,7 +115,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 🔬 Comparison with Prior Work
+## 8. Comparison with Prior Work
 
 | Authors | Classes | Data | Multimodal | Accuracy |
 |---------|---------|------|-----------|----------|
@@ -118,7 +128,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 🔭 Future Work
+## 9. Future Work
 
 - Integration of non-contact biosignals (EEG, ECG, EOG) as additional modalities
 - Deployment and optimization for real on-device AI environments
@@ -126,7 +136,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 📜 Citation
+## 10. Citation
 
 ```bibtex
 @article{shin2025driver,
@@ -140,14 +150,11 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 🏫 Acknowledgements
-
-This study was supported by the **University Innovation Support Project of Korean Bible University** in 2024.
-
----
-
-## 📬 Contact
+## 11. Contact
 
 **Corresponding Author:** Prof. Jinho Han  
 Department of Liberal Arts, Korean Bible University, Republic of Korea  
 📧 hjinob@bible.ac.kr
+
+---
+

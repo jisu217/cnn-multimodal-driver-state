@@ -27,11 +27,6 @@ Sooah Shin, Jisu Kang, Sooah Kim, Hwanseo Yeo, Dongyeon Lee, Jeongjyun Lee, Giju
 
 Accurately detecting a driver's state is critical for road safety. This project proposes a **multimodal CNN** that takes **three simultaneous inputs** — driver face image, driver posture image, and sound spectrogram — to classify six driver states with **99.9% accuracy**.
 
-Key design goals:
-- ✅ Simple CNN structure suitable for **on-device AI** (e.g., mobile phones)
-- ✅ Uses only a **camera + microphone** — no specialized sensors required
-- ✅ Outperforms single/dual-input baselines and competes with ResNet50 & Xception
-
 ---
 
 ## 3. Classification Labels
@@ -113,26 +108,6 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 | Number of classes | 6 |
 | Image size | 227 × 227 × 3 |
 
----
-
-## 8. Comparison with Prior Work
-
-| Authors | Classes | Data | Multimodal | Accuracy |
-|---------|---------|------|-----------|----------|
-| **Ours** | **6** | **Image + Sound** | **✅** | **99.9%** |
-| Kim et al. (2024) | 2 | Face image | ❌ | 99.84% |
-| Das et al. (2024) | 2 | Image + IoT | ✅ | 98.8% |
-| Madni et al. (2024) | 2 | Eye movement | ❌ | 99.0% |
-| Amin et al. (2023) | 3 | Image + ECG/HR | ✅ | 96.6% |
-| Qin et al. (2022) | 10 | Image (HOG) | ❌ | 99.87% |
-
----
-
-## 9. Future Work
-
-- Integration of non-contact biosignals (EEG, ECG, EOG) as additional modalities
-- Deployment and optimization for real on-device AI environments
-- Extension to more diverse and real-world driving scenarios
 
 ---
 
@@ -147,14 +122,5 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
   doi     = {10.24225/kjai.2022.9.1.1}
 }
 ```
-
----
-
-## 11. Contact
-
-**Corresponding Author:** Prof. Jinho Han  
-Department of Liberal Arts, Korean Bible University, Republic of Korea  
-📧 hjinob@bible.ac.kr
-
 ---
 

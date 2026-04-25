@@ -7,9 +7,9 @@
 ## 목차 (Table of Contents)
 1. [Paper](#1.Paper)
 2. [Overview](#2.Overview)
-3. [Classification Labels](#3.Classification Labels)
-4. [Model Architecture](#4.Model Architecture)
-5. [Experimental Results](#5.Experimental Results)
+3. [Classification-Labels](#3.Classification Labels)
+4. [Model-Architecture](#4.Model Architecture)
+5. [Experimental-Results](#5.Experimental Results)
 6. [Dataset](#6.Dataset)
 
 --- 
@@ -29,7 +29,7 @@ Accurately detecting a driver's state is critical for road safety. This project 
 
 ---
 
-## 3. Classification Labels
+## 3. Classification-Labels
 
 | Label | State | Visual Cue | Audio Cue |
 |-------|-------|-----------|-----------|
@@ -42,7 +42,7 @@ Accurately detecting a driver's state is critical for road safety. This project 
 
 ---
 
-## 4. Model Architecture
+## 4. Model-Architecture
 
 The proposed **Multi-Input CNN** is based on a modified AlexNet structure:
 
@@ -66,7 +66,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 
 ---
 
-## 5. Experimental Results
+## 5. Experimental-Results
 
 ### Single Input vs. Dual Input vs. Triple Input
 

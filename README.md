@@ -11,6 +11,8 @@
 4. [Model Architecture](#4-model-architecture)
 5. [Experimental Results](#5-experimental-results)
 6. [Dataset](#6-dataset)
+7. [Training Configuration](#7-Training-Configuration)
+8. [Citation](#8-Citation)
 
 --- 
 

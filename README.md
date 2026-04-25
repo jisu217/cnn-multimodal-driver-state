@@ -1,6 +1,6 @@
 # A study on driver state recognition using CNN-based multimodal multi-input learning
 
-> A lightweight, on-device-ready driver state recognition system using facial images, body posture images, and sound spectrograms as triple-input multimodal data.
+> Using the driver's face, driving posture, and surrounding sound data together, we propose a multimodal CNN-based system that recognizes six driver states — normal, drowsy, fainting, surprise, anger, and anxiety — with a high accuracy of 99.9%.
 
 --- 
 

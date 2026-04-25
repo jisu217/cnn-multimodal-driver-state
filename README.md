@@ -1,6 +1,10 @@
 # A study on driver state recognition using CNN-based multimodal multi-input learning
 
->
+![AI](https://img.shields.io/badge/Artificial_Intelligence-blue)
+![Multimodal](https://img.shields.io/badge/Multimodal-orange)
+![CNN](https://img.shields.io/badge/CNN-red)
+![On-device AI](https://img.shields.io/badge/On--device_AI-green)
+![Driver State Recognition](https://img.shields.io/badge/Driver_State_Recognition-purple)
 
 --- 
 

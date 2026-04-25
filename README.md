@@ -83,7 +83,7 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
 | Our CNN | Dual (face + state) | 75.8% |
 | **Our CNN** | **Triple (face + state + sound)** | **99.9%** |
 
-> 💡 Adding sound spectrogram data as the third modality resolved the overfitting observed in dual-input training and boosted accuracy to **99.9%**.
+> Adding sound spectrogram data as the third modality resolved the overfitting observed in dual-input training and boosted accuracy to **99.9%**.
 
 ---
 

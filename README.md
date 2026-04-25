@@ -1,4 +1,4 @@
-# 🚗 Driver State Recognition via CNN-Based Multimodal Multi-Input Learning
+# A study on driver state recognition using CNN-based multimodal multi-input learning
 
 > A lightweight, on-device-ready driver state recognition system using facial images, body posture images, and sound spectrograms as triple-input multimodal data.
 

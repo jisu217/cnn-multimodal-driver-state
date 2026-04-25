@@ -21,7 +21,7 @@
 **"A study on driver state recognition using CNN-based multimodal multi-input learning"**  
 Sooah Shin, Jisu Kang, Sooah Kim, Hwanseo Yeo, Dongyeon Lee, Jeongjyun Lee, Gijun Han, **Jinho Han***  
 *Korean Journal of Artificial Intelligence*, 2025  
-📎 DOI: [10.24225/kjai.2022.9.1.1](http://dx.doi.org/10.24225/kjai.2022.9.1.1)
+> 📎 DOI: [10.24225/kjai.2022.9.1.1](http://dx.doi.org/10.24225/kjai.2022.9.1.1)
 
 ---
 
